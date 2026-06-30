@@ -1,0 +1,21 @@
+PHISHING EMAIL ANALYSIS REPORT
+
+Objective:
+Analyze a suspicious email and identify phishing indicators.
+
+Indicators Found:
+
+1. Fake sender email address
+2. Generic greeting
+3. Urgent language
+4. Threatening message
+5. Suspicious URL
+6. Possible email spoofing
+
+Risk:
+
+The email attempts to trick users into clicking a fake website and stealing login credentials.
+
+Conclusion:
+
+This email contains multiple phishing indicators and should not be trusted.
